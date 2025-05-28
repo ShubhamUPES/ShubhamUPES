@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **shubhamsahu.upes@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/shubham-sahu-892751262/" target="_blank">LinkedIn</a></h3>
+
 <p align="left">
 </p>
 
