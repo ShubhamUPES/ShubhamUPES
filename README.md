@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamupes" alt="shubhamupes" /></a> </p>
 
-- 🌱 I’m currently learning **Open CV ,Tensorflow**
+- 🌱 I’m currently learning **Generative AI , Federated Learning**
 
 - 📫 How to reach me **shubhamsahu.upes@gmail.com**
 
