@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sahu</h1>
-<h3 align="center">AI/ML Devotee: Persistent Learner</h3>
+<h3 align="center">AI/ML Undergrad Researcher</h3>
 <img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw2RxoqGNqEl92Lh4xc8MoRS&ust=1713850273397000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiEnfqL1YUDFQAAAAAdAAAAABAP>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamupes&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamupes" /> </p>
