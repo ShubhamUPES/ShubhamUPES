@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Shubham Sahu</h1>
+<h1 align="center"> Shubham Sahu</h1>
 <h3 align="center">AI Developer | Passionate About Research</h3>
 
 <div align="center">
