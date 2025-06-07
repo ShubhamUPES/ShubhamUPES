@@ -2,8 +2,9 @@
 <h3 align="center">AI Developer | Passionate About Research</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD7Tks1pQsl3Vk8/giphy.gif" alt="Neural Network Animation" width="180"/>
+  <img src="https://cdn.dribbble.com/users/106537/screenshots/5815805/neural-network-animation.gif" alt="Neural Network" width="180"/>
 </div>
+
 <p align="center">
   <a href="mailto:shubhamsahu.upes@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/shubham-sahu-892751262">💼 LinkedIn</a> •
