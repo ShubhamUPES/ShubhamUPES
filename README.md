@@ -2,9 +2,8 @@
 <h3 align="center">AI Generalist | GenAI Engineer | Applied ML Explorer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD4tvxCZbCxJYJy/giphy.gif" alt="Tech Animation" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Tech Animation" width="200"/>
 </div>
-
 <p align="center">
   <a href="mailto:shubhamsahu.upes@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/shubham-sahu-892751262">💼 LinkedIn</a> •
@@ -14,13 +13,11 @@
 </p>
 
 ---
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Engineering+AI+experiences...;Turning+research+into+products" alt="Typing SVG" />
 </div>
 
 ---
-
 ### ⚡ About Me
 - 🎓 B.Tech CSE (AIML) @ UPES
 - 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning
@@ -29,7 +26,6 @@
 - 🧪 Favorite Stack → PyTorch + Transformers + FastAPI
 
 ---
-
 ### ✨ Featured Work
 
 | 📌 Project         | 🔧 Tech                            |
@@ -40,7 +36,6 @@
 | **🌫 PM2.5 Detector**| BiLSTM, Flower, Anomaly Detection |
 
 ---
-
 ### 🛠 Tech Toolbox
 
 <div align="center">
@@ -48,7 +43,6 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -57,7 +51,6 @@
 </div>
 
 ---
-
 ### 💬 Let's Talk AI
 
 > *“I don't just prompt models — I shape intelligent systems.”*  
