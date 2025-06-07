@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Passionate About Research</h3>
 
 <div align="center">
-  <img src=["https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"](https://media.giphy.com/media/3o7aD7Tks1pQsl3Vk8/giphy.gif) alt="Data Flow" width="180"/>
+  <img src="https://media.giphy.com/media/3o7aD7Tks1pQsl3Vk8/giphy.gif" alt="Neural Network Animation" width="180"/>
 </div>
 <p align="center">
   <a href="mailto:shubhamsahu.upes@gmail.com">📧 Email</a> •
