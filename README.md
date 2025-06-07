@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Shubham Sahu</h1>
-<h3 align="center">AI Generalist | GenAI Engineer | Applied ML Explorer</h3>
+<h3 align="center">AI Developer | Passionate About Research</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Tech Animation" width="200"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Data Flow" width="180"/>
 </div>
 <p align="center">
   <a href="mailto:shubhamsahu.upes@gmail.com">📧 Email</a> •
