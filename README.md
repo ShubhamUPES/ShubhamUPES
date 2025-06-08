@@ -13,12 +13,6 @@
   <a href="https://shubhamupes.github.io/shubhamsahu.github.io/">🌐 Portfolio</a>
 </p>
 
----
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Engineering+AI+experiences...;Turning+research+into+products" alt="Typing SVG" />
-</div>
-
----
 ### ⚡ About Me
 - 🎓 B.Tech CSE (AIML) @ UPES
 - 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning
