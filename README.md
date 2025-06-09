@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,opencv,docker,github,linux" />
 </div>
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamupes&show_icons=true&theme=tokyonight" height="140"/>
