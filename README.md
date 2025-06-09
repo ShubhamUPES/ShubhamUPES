@@ -33,7 +33,6 @@
 </div>
 
 ---
----
 ### ✨ Featured Work
 
 | 📌 Project         | 🔧 Tech                            |
