@@ -20,6 +20,19 @@
 - 🛠️ Believer in clean pipelines & fast experimentation
 - 🧪 Favorite Stack → PyTorch + Transformers + FastAPI
 
+### 🛠 Tech Toolbox
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,opencv,docker,github,linux" />
+</div>
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamupes&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamupes&theme=tokyonight" height="140"/>
+</div>
+
+---
 ---
 ### ✨ Featured Work
 
@@ -29,21 +42,6 @@
 | **📚 ResearchMentor**| LLaMA, RAG, LangChain, Arxiv API |
 | **🧴 Skin AI Assistant** | ConvNeXt, Mistral, FastAPI      |
 | **🌫 PM2.5 Detector**| BiLSTM, Flower, Anomaly Detection |
-
----
-### 🛠 Tech Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,opencv,docker,github,linux" />
-</div>
-
----
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamupes&show_icons=true&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamupes&theme=tokyonight" height="140"/>
-</div>
 
 ---
 ### 💬 Let's Talk AI
