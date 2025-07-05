@@ -1,10 +1,12 @@
 <h1 align="center"> Shubham Sahu</h1>
 <h3 align="center">AI Developer | Passionate About Research</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhamUPES&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <div align="center">
   <img src="https://cdn.dribbble.com/users/106537/screenshots/5815805/neural-network-animation.gif" alt="Neural Network" width="180"/>
-  <br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShubhamUPES&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 </div>
 
 <p align="center">
@@ -15,6 +17,8 @@
   <a href="https://shubhamupes.github.io/shubhamsahu.github.io/">🌐 Portfolio</a>
 </p>
 
+---
+
 ### ⚡ About Me
 - 🎓 B.Tech CSE (AIML) @ UPES  
 - 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning  
@@ -22,10 +26,14 @@
 - 🛠️ Believer in clean pipelines & fast experimentation  
 - 🧪 Favorite Stack → PyTorch + Transformers + FastAPI  
 
+---
+
 ### 🛠 Tech Toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,opencv,docker,github,linux" />
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
