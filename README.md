@@ -3,6 +3,8 @@
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/106537/screenshots/5815805/neural-network-animation.gif" alt="Neural Network" width="180"/>
+  <br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShubhamUPES&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 </div>
 
 <p align="center">
@@ -12,13 +14,13 @@
   <a href="https://leetcode.com/shubhamupes/">📊 LeetCode</a> •
   <a href="https://shubhamupes.github.io/shubhamsahu.github.io/">🌐 Portfolio</a>
 </p>
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShubhamUPES&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+
 ### ⚡ About Me
-- 🎓 B.Tech CSE (AIML) @ UPES
-- 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning
-- ⚙️ Prototyping AI x Research Ideas into Systems
-- 🛠️ Believer in clean pipelines & fast experimentation
-- 🧪 Favorite Stack → PyTorch + Transformers + FastAPI
+- 🎓 B.Tech CSE (AIML) @ UPES  
+- 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning  
+- ⚙️ Prototyping AI x Research Ideas into Systems  
+- 🛠️ Believer in clean pipelines & fast experimentation  
+- 🧪 Favorite Stack → PyTorch + Transformers + FastAPI  
 
 ### 🛠 Tech Toolbox
 <div align="center">
@@ -33,16 +35,18 @@
 </div>
 
 ---
+
 ### ✨ Featured Work
 
-| 📌 Project         | 🔧 Tech                            |
-|--------------------|----------------------------------|
-| **👕 Try-On AI**     | Stable Diffusion, ControlNet, Pose Estimation |
-| **📚 ResearchMentor**| LLaMA, RAG, LangChain, Arxiv API |
-| **🧴 Skin AI Assistant** | ConvNeXt, Mistral, FastAPI      |
-| **🌫 PM2.5 Detector**| BiLSTM, Flower, Anomaly Detection |
+| 📌 Project           | 🔧 Tech                                      |
+|----------------------|----------------------------------------------|
+| **👕 Try-On AI**       | Stable Diffusion, ControlNet, Pose Estimation |
+| **📚 ResearchMentor**  | LLaMA, RAG, LangChain, Arxiv API             |
+| **🧴 Skin AI Assistant** | ConvNeXt, Mistral, FastAPI                  |
+| **🌫 PM2.5 Detector**  | BiLSTM, Flower, Anomaly Detection            |
 
 ---
+
 ### 💬 Let's Talk AI
 
 > *“I don't just prompt models — I shape intelligent systems.”*  
