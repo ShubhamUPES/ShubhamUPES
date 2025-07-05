@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/shubhamupes/">📊 LeetCode</a> •
   <a href="https://shubhamupes.github.io/shubhamsahu.github.io/">🌐 Portfolio</a>
 </p>
-[Profile views](https://komarev.com/ghpvc/?username=ShubhamUPES&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ShubhamUPES&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 ### ⚡ About Me
 - 🎓 B.Tech CSE (AIML) @ UPES
 - 🧠 GenAI, Stable Diffusion, LLMs, Federated Learning
